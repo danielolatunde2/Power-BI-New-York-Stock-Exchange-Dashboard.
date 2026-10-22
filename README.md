@@ -25,6 +25,8 @@ This project shows the the total capital expenditure, net income trends, cash fl
 -  Income Tax By Year.
 -  Different Net Cash Flow trends By Year
 -  Different Net Income Trends By Year.
+-  Key Performance Index (KPI).
+-  Insights and Recommendations.
 
  ## Recommendations
 -  Ensure sustainability of gross profits.
