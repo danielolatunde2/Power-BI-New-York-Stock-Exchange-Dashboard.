@@ -31,3 +31,6 @@ This project shows the the total capital expenditure, net income trends, cash fl
 - Cash inflow should be strengthened by monitoring financial inflow and controlling Capital Expenditure.
 - Investment Decision should be strengthened. 
 - Financial performance should be monitor such as profitability,, liability, and investment return in other to identify financial weakness early in other to make informed decision needed.
+<img width="1282" height="723" alt="New York Stock2" src="https://github.com/user-attachments/assets/6d4dd74c-4c57-4154-bfc5-1ea93bd6d237" />
+<img width="1285" height="723" alt="New York Stock1" src="https://github.com/user-attachments/assets/a9c1d3d6-46c1-4372-90cb-71fc1e2f9386" />
+<img width="1283" height="722" alt="New York Stock3" src="https://github.com/user-attachments/assets/60117087-d857-4f61-9bdd-7e8d81b2f65f" />
